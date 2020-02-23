@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 essai1
 et voici l'essai 2
+=======
+essai  refait
+
+et maintenant voici essai2
+et essai 3
+et maintenant essai4 
+>>>>>>> pourTravailler
