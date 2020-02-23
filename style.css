@@ -1,0 +1,52 @@
+p { 
+font-weight : bold;
+color: Sienna;
+margin-left: 20;
+margin-right: 20;
+width:"640px";
+max-width: 640px;
+}
+body {
+background-color: gainsboro;
+width: "640px";
+text-align: center;
+position: center;
+align: center;
+max-width: 640px;
+margin-left: auto;
+  margin-right: auto;
+  width: 640;
+}
+
+.bloc-fixe { text-align: center;
+margin-left: 20;
+margin-right: 20;
+width: 640px;
+align: center;
+font-weight : bold;
+position: center;
+color: Sienna;
+max-width: 640px;
+}
+
+#entete {
+align: center;
+border-color : gray;
+border-radius :"20px";
+text-align : center; 
+width :"640px";
+}
+
+#qrcode {
+border-color: gray;
+ border-radius :"10px";
+text-align : center;
+}
+
+#guitareDeJP {
+position: left;
+}
+
+#trompetteImage {
+position: right;
+}
